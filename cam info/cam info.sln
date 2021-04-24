@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cam info", "cam info\cam info.csproj", "{05E27A15-D09B-467D-B1FA-C71F0AE90AA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05E27A15-D09B-467D-B1FA-C71F0AE90AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E27A15-D09B-467D-B1FA-C71F0AE90AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E27A15-D09B-467D-B1FA-C71F0AE90AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E27A15-D09B-467D-B1FA-C71F0AE90AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4DB29BD-F91C-4640-9271-D6B9507DCCBD}
+	EndGlobalSection
+EndGlobal
